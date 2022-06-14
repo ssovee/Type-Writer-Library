@@ -16,7 +16,7 @@ export default class TypeWriter {
    #deletingSpeed: number;
    #editorDiv: HTMLElement
 
-   constructor(parent: HTMLElement, { loop = false, typingSpeed = 50, deletingSpeed = 50, title = 'Type Writer', isDarkTheme = true, fontSize = 18 }) {
+   constructor(parent: HTMLElement, { loop = false, typingSpeed = 50, deletingSpeed = 50, title = 'Type Writer', isDarkTheme = true, fontSize = 18 }={}) {
       // TypeWriter design 
       this.#editorDiv = document.createElement('div')
       this.#editorDiv.classList.add('code-editor', isDarkTheme ? 'dark-theme' : 'light-theme')
