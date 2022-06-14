@@ -1,5 +1,9 @@
 # Type Writer
 
+Credit goes it : WebDevSimplified (https://github.com/WebDevSimplified)
+
+Demo : https://coderx707.github.io/Type-Writer-Lib/
+
 ![Type Writer](https://raw.githubusercontent.com/CoderX707/Type-Writer-Lib/master/typing.gif)
 
 ## Installation
