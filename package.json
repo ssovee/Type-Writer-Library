@@ -1,0 +1,18 @@
+{
+  "name": "TypeWriter",
+  "version": "1.0.0",
+  "description": "Typing animation library",
+  "main": "index.js",
+  "author": "Ashish Mule",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3",
+    "vite": "^2.9.12",
+    "vite-plugin-checker": "^0.4.6"
+  }
+}
