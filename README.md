@@ -32,7 +32,7 @@ https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.c
 https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.min.css
 ```
 
-## Starter Template
+## Demo Template
 
 ```javascript
 <!DOCTYPE html>
@@ -73,3 +73,6 @@ https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.m
 </body>
 </html>
 ```
+
+## Contributing
+Pull requests are welcome, or open up an issue if you have ideas for additional functionality, new features or bugs.
