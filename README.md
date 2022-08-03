@@ -74,5 +74,5 @@ https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.m
 </html>
 ```
 
-## Contributing
+## Contribute
 Pull requests are welcome, or open up an issue if you have ideas for additional functionality, new features or bugs.
