@@ -22,14 +22,14 @@ yarn dev
 
 Javascript CDN
 ```sh
-https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/TypeWriter.js
-https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/TypeWriter.min.js
+https://cdn.jsdelivr.net/gh/ssovee/Type-Writer-Library@master/cdn/TypeWriter.js
+https://cdn.jsdelivr.net/gh/ssovee/Type-Writer-Library@master/cdn/TypeWriter.min.js
 ```
 
 CSS CDN
 ```sh
-https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.css
-https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.min.css
+https://cdn.jsdelivr.net/gh/ssovee/Type-Writer-Library@master/cdn/css/style.css
+https://cdn.jsdelivr.net/gh/ssovee/Type-Writer-Library@master/cdn/css/style.min.css
 ```
 
 ## Example Template
@@ -42,11 +42,11 @@ https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.m
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Type Writer</title>
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.min.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ssovee/Type-Writer-Library@master/cdn/css/style.min.css">
 </head>
 <body>
    <div id="typeWriter"></div>
-   <script src="https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/TypeWriter.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/ssovee/Type-Writer-Library@master/cdn/TypeWriter.min.js"></script>
    <script>
          const typeWriter = new TypeWriter(document.getElementById('typeWriter'), {
             loop: true,
