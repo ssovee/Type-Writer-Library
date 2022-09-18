@@ -1,6 +1,6 @@
 # Type Writer
 
-Credit goes it : WebDevSimplified (https://github.com/WebDevSimplified)
+Credit goes it : [WebDevSimplified](https://github.com/WebDevSimplified)
 
 [Library preview](https://ssovee.github.io/Type-Writer-Library/)
 
