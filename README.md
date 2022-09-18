@@ -2,7 +2,7 @@
 
 Credit goes it : WebDevSimplified (https://github.com/WebDevSimplified)
 
-Demo : [https://coderx707.github.io/Type-Writer-Library/](https://coderx707.github.io/Type-Writer-Library/)
+[Library preview](https://ssovee.github.io/Type-Writer-Library/)
 
 ![Type Writer](https://raw.githubusercontent.com/CoderX707/Type-Writer-Lib/master/typing.gif)
 
