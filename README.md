@@ -32,7 +32,7 @@ https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.c
 https://cdn.jsdelivr.net/gh/coderx707/Type-Writer-Library@master/cdn/css/style.min.css
 ```
 
-## Demo Template
+## Example Template
 
 ```javascript
 <!DOCTYPE html>
